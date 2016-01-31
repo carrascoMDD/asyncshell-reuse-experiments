@@ -1,0 +1,57 @@
+{
+  "name": "asyncshell-reuse-experiments",
+  "version": "0.0.1",
+  "description": "Experiments on ways of reusing AsyncShell, an asynchronous shell and components for End2end test of JSON APIs and AngularJS user interfaces.",
+  "keywords": [
+    "asyncshell",
+    "end2end",
+    "asynchronous",
+    "async",
+    "test",
+    "testing",
+    "API",
+    "JSON",
+    "angular",
+    "protractor",
+    "jasmine",
+    "webdriver",
+    "webdriverjs",
+    "selenium"
+  ],
+  "homepage": "https://github.com/carrascoMDD/asyncshell-reuse-experiments",
+  "bugs": {
+    "url": "https://github.com/carrascoMDD/asyncshell-reuse-experiments/issues"
+  },
+  "license": "EUPL-1.1",
+  "author": {
+    "name": "Antonio Carrasco Valero",
+    "email": "carrascomdd@gmail.com"
+  },
+  "files": [],
+  "main": null,
+  "bin": null,
+  "man": null,
+  "directories": {    
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carrascoMDD/asyncshell-reuse-experiments.git"
+  },
+  "scripts": {},
+  "config": {},
+  "dependencies": {
+    "asyncshell": "0.3.x"
+  },
+  "devDependencies": {
+  },
+  "bin": {
+  },
+  "scripts": {
+  },
+  "maintainers": [
+    {
+      "name": "Antonio Carrasco Valero",
+      "email": "carrascomdd@gmail.com"
+    }
+  ]
+}
