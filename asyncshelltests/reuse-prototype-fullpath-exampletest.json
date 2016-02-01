@@ -1,0 +1,13 @@
+{
+    "name": "reuse-prototype-fullpath-exampletest",
+    "runnable": true,
+    "expectSuccess": true,
+    "module": "symbolic_path_to_a_test_component_module",
+    "constructorName": "name_of_a_test_component_constructor_in_symbolic_path_to_a_test_component_module",
+    "methodName": "name_of_a_test_entry_method_for_test_created_with_component_constructor_in_symbolic_path_to_a_test_component_module",
+    "scheduleSubs": "SERIES",
+    "parms": {
+        "salutation": "Hello reuse-prototype-fullpath-exampletest. You are using te2est asyncshell written in Javascript. Copyright 2014 2015 2016 Antonio Carrasco Valero {{CopyrightNoticeJSON2}} Licensed under the EUPL, Version 1.1 only (the 'Licence'); You may not use this work except in compliance with the Licence. You may obtain a copy of the Licence at: https://joinup.ec.europa.eu/software/page/eupl/licence-eupl Unless required by applicable law or agreed to in writing, software distributed under the Licence is distributed on an 'AS IS' basis, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the Licence for the specific language governing permissions and limitations under the Licence.  {{LicenseJSON2}}  {{LicensedJSON1}} {{LicensedJSON2}}"
+    }
+}
+

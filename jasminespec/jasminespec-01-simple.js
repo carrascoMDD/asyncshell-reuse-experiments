@@ -1,7 +1,7 @@
 /*
- reuse-prototype-fullpath-spec.js
+ jasminespec-01-simple.js
 
- Created 201602011002
+ Created 201602011001
  */
 
 /*
@@ -31,14 +31,10 @@
  */
 
 
-/// <reference path="src/common/reuse-prototype-fullpath.js"/>
 "use strict";
 
 
-
-var aReusePrototypeFullpath = require( "../lib/reuse-prototype/reuse-prototype-fullpath");
-
-describe("reuse-prototype-fullpath-spec", function() {
+describe("Simple test", function() {
 
 
     var a = 1;
