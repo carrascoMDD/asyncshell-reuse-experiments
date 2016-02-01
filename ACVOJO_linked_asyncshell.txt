@@ -1,0 +1,10 @@
+cd ~/Works/MDD/asyncshell/SVNs_asyncshell/asyncshell_pub/asyncshell
+npm link
+# stdout
+# /home/acv/.nvm/versions/node/v4.2.4/lib/node_modules/asyncshell -> /home/acv/Works/MDD/asyncshell/SVNs_asyncshell/asyncshell_pub/asyncshell
+
+
+
+cd ~/Works/MDD/asyncshell-reuse-experiments/SVNs_asyncshell-reuse-experiments/asyncshell-reuse-experiments_trunk/asyncshell-reuse-experiments
+npm link asyncshell
+

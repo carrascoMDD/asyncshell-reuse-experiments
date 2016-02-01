@@ -29,25 +29,22 @@
   },
   "files": [],
   "main": null,
-  "bin": null,
+  "bin": {},
   "man": null,
-  "directories": {    
-  },
+  "directories": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/carrascoMDD/asyncshell-reuse-experiments.git"
   },
-  "scripts": {},
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node jasminespec"
+  },
   "config": {},
   "dependencies": {
-    "asyncshell": "0.3.x"
+    "asyncshell": "0.3.x",
+    "jasmine-node": "^1.14.5"
   },
-  "devDependencies": {
-  },
-  "bin": {
-  },
-  "scripts": {
-  },
+  "devDependencies": {},
   "maintainers": [
     {
       "name": "Antonio Carrasco Valero",
