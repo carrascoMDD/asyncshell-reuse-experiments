@@ -37,7 +37,8 @@
     "url": "https://github.com/carrascoMDD/asyncshell-reuse-experiments.git"
   },
   "scripts": {
-    "test": "./node_modules/.bin/jasmine-node jasminespec"
+    "DOESNOTRUNANYTEST_test": "./node_modules/.bin/jasmine-node jasminespec",
+    "test": "node ./lib/launch-jasmine-fromwebstorm/launch-jasmine-fromwebstorm.js"
   },
   "config": {},
   "dependencies": {
